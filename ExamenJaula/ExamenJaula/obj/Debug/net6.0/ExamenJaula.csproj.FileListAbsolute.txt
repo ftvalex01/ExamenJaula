@@ -1,0 +1,30 @@
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\Practicando\ExamenJaula\ExamenJaula\bin\Debug\net6.0\ExamenJaula.exe
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\Practicando\ExamenJaula\ExamenJaula\bin\Debug\net6.0\ExamenJaula.deps.json
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\Practicando\ExamenJaula\ExamenJaula\bin\Debug\net6.0\ExamenJaula.runtimeconfig.json
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\Practicando\ExamenJaula\ExamenJaula\bin\Debug\net6.0\ExamenJaula.dll
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\Practicando\ExamenJaula\ExamenJaula\bin\Debug\net6.0\ExamenJaula.pdb
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\Practicando\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.csproj.AssemblyReference.cache
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\Practicando\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\Practicando\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.AssemblyInfoInputs.cache
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\Practicando\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.AssemblyInfo.cs
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\Practicando\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.csproj.CoreCompileInputs.cache
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\Practicando\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.dll
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\Practicando\ExamenJaula\ExamenJaula\obj\Debug\net6.0\refint\ExamenJaula.dll
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\Practicando\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.pdb
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\Practicando\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.genruntimeconfig.cache
+C:\Users\ftval\Desktop\DAW 2023\PROGRAMACIÓN\Practicando\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ref\ExamenJaula.dll
+C:\Users\ftval\Desktop\ExamenJaula\ExamenJaula\bin\Debug\net6.0\ExamenJaula.exe
+C:\Users\ftval\Desktop\ExamenJaula\ExamenJaula\bin\Debug\net6.0\ExamenJaula.deps.json
+C:\Users\ftval\Desktop\ExamenJaula\ExamenJaula\bin\Debug\net6.0\ExamenJaula.runtimeconfig.json
+C:\Users\ftval\Desktop\ExamenJaula\ExamenJaula\bin\Debug\net6.0\ExamenJaula.dll
+C:\Users\ftval\Desktop\ExamenJaula\ExamenJaula\bin\Debug\net6.0\ExamenJaula.pdb
+C:\Users\ftval\Desktop\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.csproj.AssemblyReference.cache
+C:\Users\ftval\Desktop\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftval\Desktop\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.AssemblyInfoInputs.cache
+C:\Users\ftval\Desktop\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.AssemblyInfo.cs
+C:\Users\ftval\Desktop\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.csproj.CoreCompileInputs.cache
+C:\Users\ftval\Desktop\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.dll
+C:\Users\ftval\Desktop\ExamenJaula\ExamenJaula\obj\Debug\net6.0\refint\ExamenJaula.dll
+C:\Users\ftval\Desktop\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.pdb
+C:\Users\ftval\Desktop\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ExamenJaula.genruntimeconfig.cache
+C:\Users\ftval\Desktop\ExamenJaula\ExamenJaula\obj\Debug\net6.0\ref\ExamenJaula.dll
